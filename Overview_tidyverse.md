@@ -7,10 +7,10 @@
     height: 100px;
 }
 </style>
-tidyverse: Key Tips and Libraries for Existing R Users
+tidyverse: Repetition, Overview, and some Tricks
 ========================================================
 author: Dr. Thomas Koentges, You Say Data Limited
-date: 23 Nov 2021
+date: 24 Jan 2023
 font-family: 'Montserrat'
 autosize: true
 
@@ -55,16 +55,6 @@ autosize: true
 </div>
 
 
-
-The talk's audience
-========================================================
-type: sub-section
-
-1. Rbase-savvy users
-
-2. Former R-users
-
-3. Novice R-users
 
 What is the tidyverse?
 ========================================================
@@ -231,7 +221,7 @@ title: false
 
 # Ngā mihi nui!
 
-Feel free to book a one-on-one session at [https://yousaydata.com](https://yousaydata.com) or get in touch on [LinkedIn: Thomas Koentges](https://www.linkedin.com/in/thomas-koentges/).
+Feel free to bookto get in touch at [https://yousaydata.com](https://yousaydata.com) or [LinkedIn: Thomas Koentges](https://www.linkedin.com/in/thomas-koentges/).
 
 
 
